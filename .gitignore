@@ -1,0 +1,22 @@
+# VS / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+Debug/
+Release/
+
+# Rider/VS Code
+.idea/
+.vscode/
+
+# Docker
+**/*.env
+**/.DS_Store
+
+# Otros
+*.swp
+*.vsidx
